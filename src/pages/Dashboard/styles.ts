@@ -50,7 +50,7 @@ export const Repositories = styled.div`
   max-width: 700px;
 
   a {
-    background: #a0a5a9;
+    background: #696969;
     border-radius: 5px;
     width: 100%;
     padding: 24px;
@@ -80,7 +80,7 @@ export const Repositories = styled.div`
 
       strong {
         font-size: 20px;
-        color: #3d3d4d;
+        color: #3d3d55;
       }
 
       p {
