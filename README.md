@@ -17,7 +17,7 @@ Dentro da aplicação é possível ver os repositórios listados, estatisticas e
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b1f66695-359d-4d98-a110-356fda4527c1/deploy-status)](https://app.netlify.com/sites/githubexplorerexempleapp/deploys)
 
 <p align="center">
-  <a href="https://app.netlify.com/sites/githubexplorerexempleapp/deploys" target="_blank">
+  <a href="https://githubexplorerexempleapp.netlify.app/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1599785319/readme_logos/demo_on_netlify_umjmch.png">
   </a>
 </p>
