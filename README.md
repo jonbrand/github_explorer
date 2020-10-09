@@ -22,6 +22,18 @@ Dentro da aplicação é possível ver os repositórios listados, estatisticas e
   </a>
 </p>
 
+### :rocket: Tecnologias
+
+Este projeto foi construido com as seguintes tecnologias:
+
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [react-router-dom](https://github.com/ReactTraining/react-router)
+- [styled-components](https://www.styled-components.com/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [polished](https://polished.js.org)
+- [VS Code](https://code.visualstudio.com/) with [EditorConfig](https://editorconfig.org/) and [ESLint](https://eslint.org/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,3 +79,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
