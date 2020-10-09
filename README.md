@@ -6,7 +6,8 @@
 
 Projeto criado dentro do Bootcamp GoStack utilizando os conhecimentos aprendidos. Este projeto consistem em uma aplicação web que armazena qualquer repositório do Github, desde que o usuário indique o nome do criador seguido pelo nome do repositório. Ex: "jonbrand/github_explorer".
 
-Dentro da aplicação é possível ver os repositórios listados, estatisticas e issues, onde o usuário, caso queira, vai ser redirecionado à issue real do projeto.
+Dentro da aplicação é possível ver os repositórios listados, estatísticas e issues, podendo estas informações serem acessadas no projeto real dentro da plataforma Github.
+
 
 
 ### Demonstração
