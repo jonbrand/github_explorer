@@ -35,7 +35,20 @@ Este projeto foi construido com as seguintes tecnologias:
 - [VS Code](https://code.visualstudio.com/) with [EditorConfig](https://editorconfig.org/) and [ESLint](https://eslint.org/)
 
 
-https://github.com/jonbrand/github_explorer/new/building
+## Como utilizar o projeto
+
+Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), [Node.js v12.18.3][nodejs] ou superior, do [Yarn 1.22.5][yarn] ou superior instalado no seu computador. Utilize estes comandos:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/jonbrand/github_explorer.git
+
+# Go into the repository
+$ cd github_explorer
+
+# Install dependencies
+$ yarn start
+```
 
 ## :memo: Licença
 
