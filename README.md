@@ -18,7 +18,7 @@ Dentro da aplicação é possível ver os repositórios listados, estatisticas e
 
 <p align="center">
   <a href="https://githubexplorerexempleapp.netlify.app/" target="_blank">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1599785319/readme_logos/demo_on_netlify_umjmch.png">
+    <img alt="Demo on Netlify" src="https://github.com/jonbrand/github_explorer/blob/main/github/assets/demo_on_netlify_umjmch.png">
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Este projeto foi construido com as seguintes tecnologias:
 
 ## Como utilizar o projeto
 
-Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), [Node.js v12.18.3][nodejs] ou superior, do [Yarn 1.22.5][yarn] ou superior instalado no seu computador. Utilize estes comandos:
+Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), [Node.js v12.18.3](https://nodejs.org/en/) ou superior, do [Yarn 1.22.5](https://yarnpkg.com/) ou superior instalado no seu computador. Utilize estes comandos:
 
 ```bash
 # Clone this repository
