@@ -9,6 +9,11 @@ Projeto criado dentro do Bootcamp GoStack utilizando os conhecimentos aprendidos
 Dentro da aplicação é possível ver os repositórios listados, estatisticas e issues, onde o usuário, caso queira, vai ser redirecionado à issue real do projeto.
 
 
+### Demonstração
+![github_explorer-1](https://github.com/jonbrand/github_explorer/blob/main/github/assets/github_explorer1.gif)
+
+![github_explorer-1](https://github.com/jonbrand/github_explorer/blob/main/github/assets/github_explorer2.gif)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
